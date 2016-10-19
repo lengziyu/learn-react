@@ -12,6 +12,7 @@
 * [React学习中几个注意点](http://www.css88.com/archives/5600)
 * [React入门及资源指引](https://segmentfault.com/a/1190000006495917)
 * [React JSX语法](http://blog.lengziyu.com/2016/10/12/react-jsx-grammar/)
+* [React 笔记之 表单](http://blog.lengziyu.com/2016/10/18/react-to-biaodan/)
 * [React 数据流 Props 和 State 基础介绍](http://blog.lengziyu.com/2016/10/10/react-props-and-state/)
 * [React 数据流 Props 和 State 组件沟通](http://blog.lengziyu.com/2016/10/11/react-props-and-state-plus/)
 
