@@ -52,6 +52,7 @@
 ### Router
 * [react-router](https://github.com/ReactTraining/react-router)
 * [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
+* [React Router 学习手册-基础篇](https://segmentfault.com/a/1190000007239636)
 * [小白学react之React Router实战](http://www.jianshu.com/p/d8d1e5d50447)
 
 ### React Native
