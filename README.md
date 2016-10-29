@@ -28,6 +28,7 @@
 * [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/)
 * [React 数据流管理架构之 Redux 介绍](http://www.alloyteam.com/2015/09/react-redux/)
 * [React服务器端渲染实践小结](http://www.alloyteam.com/2015/10/8783/)
+* [React学习经验总结](https://segmentfault.com/a/1190000002961760)
 
 ### 视频讲解
 * [React入门（慕课网）](http://www.imooc.com/view/504)
