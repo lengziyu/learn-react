@@ -63,28 +63,8 @@
 * [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 
 ### 组件
-* [React-native组件库（比较全的组件库）](https://js.coach/)
-* [React Native Modules](http://reactnativemodules.com/)
-* [最佳轮播类组件](https://github.com/leecade/react-native-swiper)
-* [react-native-simple-router](https://github.com/react-native-simple-router-community/react-native-simple-router)
-* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
-* [下拉刷新组件](https://github.com/jsdf/react-native-refreshable-listview)
-* [模态框](https://github.com/brentvatne/react-native-modal)
-* [react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar)
-* [滚动轮播组件](https://github.com/appintheair/react-native-looped-carousel)
-* [HTML显示组件](https://github.com/jsdf/react-native-htmlview)
-* [Material React Native (MRN) - Material Design组件库](https://github.com/binggg/mrn)
-* [react-native-gitfeed - GitHub客户端(iOS/Android)](https://github.com/xiekw2010/react-native-gitfeed)
+* [弹框组件 rodal](https://github.com/chenjiahan/rodal)
 
-### 工具
-* [react-native-snippets(代码提示)](https://github.com/Shrugs/react-native-snippets)
-* [react-native-babel(使用ES6+)](https://github.com/roman01la/react-native-babel)
-* [sqlite for react-native](https://github.com/almost/react-native-sqlite)
-* [gulp-react-native-css(就像写css一样写React Style)](https://github.com/soliury/gulp-react-native-css)
-* [rnpm(React Native Package Manager)](https://github.com/rnpm/rnpm)
-* [Pepperoni - React Native项目初始化套件](https://github.com/futurice/pepperoni-app-kit)
-* [Deco IDE - React Native IDE](https://www.decosoftware.com/)
-* [ignite - React Native CLI项目生成器](https://github.com/infinitered/ignite)
 
 ### 脚手架
 * [React-Study](https://github.com/minooo/React-Study)
